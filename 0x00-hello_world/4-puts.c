@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
 * main - A Programming that prints a line with puts function
