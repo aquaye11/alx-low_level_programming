@@ -5,3 +5,4 @@
 3-name writes a script that compiles a C file and creates an executable named cisfun where the C file name will be saved in the variable $CFILE
 4-puts.c writes a C program that prints exactly "Programming is like building a multilingual puzzle", followed by a new line and uses the function puts where printf is not used and program ends with 0
 5-printf.c writes a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line
+6-size.c writes a C program that prints the size of various types on the computer it is compiled and run on
