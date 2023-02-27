@@ -1,12 +1,12 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
-*reset_to_98 - reset argument to 98
-*@n: printed integer
-*Return: void
-*/
-void reset_to_98(int *n) 
-{ 
-
-    *n = 98;
-
+  * reset_to_98 - Updates the value it points to 98
+  * @n: pointer to n
+  *
+  * Return: void
+  */
+void reset_to_98(int *n)
+{
+	*n = 98;
 }  
